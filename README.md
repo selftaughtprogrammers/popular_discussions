@@ -8,7 +8,7 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/408893546141052/
 
 
 # Programming Languages
-<b>What was your first programming language and how long did it take you to learn it?</b> <br><br>
+<b>What was your first programming language and how long did it take you to learn it?</b> 
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/?match=bGFuZ3VhZ2VzLGxhbmd1YWdlLGZpcnN0<br><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/415038718859868/
 
