@@ -7,6 +7,7 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/
 
 <b>What programming project should I build?</b>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/412694529094287/?match=cHJvamVjdHMscHJvamVjdCxpZGVhcyxpZGVh
+
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/408893546141052/?match=cHJvamVjdCxpZGVhcyxpZGVh
 
 # Resources
