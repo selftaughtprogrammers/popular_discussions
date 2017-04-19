@@ -1,14 +1,19 @@
 # popular_discussions
 Links to the most popular discussions in the Self-Taught Progammers Facebook group. Please do not post about these subjects in the group as they've already been thoroughly discussed. Commenting on these posts is turned off.  
 
-# Programming 
-<b>What was your first programming language and how long did it take you to learn it?</b> <br>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/?match=bGFuZ3VhZ2VzLGxhbmd1YWdlLGZpcnN0
-
+# Programming
 <b>What programming project should I build?</b>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/412694529094287/?match=cHJvamVjdHMscHJvamVjdCxpZGVhcyxpZGVh
-
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/412694529094287/?match=cHJvamVjdHMscHJvamVjdCxpZGVhcyxpZGVh<br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/408893546141052/?match=cHJvamVjdCxpZGVhcyxpZGVh
+
+
+# Programming Languages
+<b>What was your first programming language and how long did it take you to learn it?</b> <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/?match=bGFuZ3VhZ2VzLGxhbmd1YWdlLGZpcnN0<br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/415038718859868/
+
+<b>What is the best programming language?</b>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/411792379184502/?match=YmVzdCBwcm9ncmFtbWluZyBsYW5ndWFnZXMsYmVzdCBwcm9ncmFtbWluZyBsYW5ndWFnZQ%3D%3D
 
 # Resources
 <b>I want to learn to program. What is the best place to start?</b> <br>
@@ -31,4 +36,14 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/394968064200267/
 <b>What does your work station look like?</b>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/393616147668792/?match=d29yayBzdGF0aW9uLHdvcmtz
 
-# Other
+# Podcasts
+<b>What podcasts do you listen to?</b>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/411490162548057/?match=cG9kY2FzdHMscG9kY2FzdA%3D%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/406320416398365/?match=cG9kY2FzdHM%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/393534967676910/?match=cG9kY2FzdHM%3D
+
+# Music
+<b> What music do you listen to while you code? </b>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/402948190068921/?match=bXVzaWM%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/399350733762000/?match=bXVzaWM%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/396314940732246/?match=bXVzaWM%3D
