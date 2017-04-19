@@ -15,6 +15,9 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/415038718859868/
 <b>What is the best programming language?</b>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/411792379184502/?match=YmVzdCBwcm9ncmFtbWluZyBsYW5ndWFnZXMsYmVzdCBwcm9ncmFtbWluZyBsYW5ndWFnZQ%3D%3D
 
+<b> What programming language should I start with? </b><br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/389325038097903/
+
 # Resources
 <b>I want to learn to program. What is the best place to start?</b> <br>
 https://github.com/selftaughtprogrammers/resources
