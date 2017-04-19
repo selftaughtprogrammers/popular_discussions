@@ -3,13 +3,13 @@ Links to the most popular discussions in the Self-Taught Progammers Facebook gro
 
 # Programming
 <b>What programming project should I build?</b>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/412694529094287/?match=cHJvamVjdHMscHJvamVjdCxpZGVhcyxpZGVh<br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/412694529094287/?match=cHJvamVjdHMscHJvamVjdCxpZGVhcyxpZGVh<br><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/408893546141052/?match=cHJvamVjdCxpZGVhcyxpZGVh
 
 
 # Programming Languages
-<b>What was your first programming language and how long did it take you to learn it?</b> <br>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/?match=bGFuZ3VhZ2VzLGxhbmd1YWdlLGZpcnN0<br>
+<b>What was your first programming language and how long did it take you to learn it?</b> <br><br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/412994465730960/?match=bGFuZ3VhZ2VzLGxhbmd1YWdlLGZpcnN0<br><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/415038718859868/
 
 <b>What is the best programming language?</b>
@@ -38,12 +38,12 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/393616147668792/
 
 # Podcasts
 <b>What podcasts do you listen to?</b>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/411490162548057/?match=cG9kY2FzdHMscG9kY2FzdA%3D%3D <br>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/406320416398365/?match=cG9kY2FzdHM%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/411490162548057/?match=cG9kY2FzdHMscG9kY2FzdA%3D%3D <br><br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/406320416398365/?match=cG9kY2FzdHM%3D <br><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/393534967676910/?match=cG9kY2FzdHM%3D
 
 # Music
 <b> What music do you listen to while you code? </b>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/402948190068921/?match=bXVzaWM%3D <br>
-https://www.facebook.com/groups/selftaughtprogrammers/permalink/399350733762000/?match=bXVzaWM%3D <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/402948190068921/?match=bXVzaWM%3D <br><br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/399350733762000/?match=bXVzaWM%3D <br><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/396314940732246/?match=bXVzaWM%3D
