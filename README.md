@@ -18,6 +18,12 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/411792379184502/
 <b> What programming language should I start with? </b><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/389325038097903/
 
+<b> Is Ruby dying? Should I still use it? </b> <br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/414899448873795/
+
+<b>Is JavaScript or PHP better?</b><br>
+https://www.facebook.com/groups/selftaughtprogrammers/permalink/412248885805518/?match=cGhw
+
 # Resources
 <b>I want to learn to program. What is the best place to start?</b> <br>
 https://github.com/selftaughtprogrammers/resources
