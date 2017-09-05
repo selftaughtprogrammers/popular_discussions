@@ -1,4 +1,9 @@
-# popular_discussions
+# Rules
+- Please do not post about the _popular discussions_ listed below.
+- Do not post resources, debates, or links to material about hacking.
+- Respect the moderators, and the other members.
+
+# Popular Discussions
 Links to the most popular discussions in the Self-Taught Progammers Facebook group. Please do not post about these subjects in the group as they've already been thoroughly discussed. Commenting on these posts is turned off.  
 
 # Programming
