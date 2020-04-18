@@ -31,7 +31,7 @@ https://www.facebook.com/groups/selftaughtprogrammers/permalink/412248885805518/
 
 # Resources
 <b>I want to learn to program. What is the best place to start?</b> <br>
-https://github.com/selftaughtprogrammers/resources
+www.codinglist.com
 
 <b>What is your opinion of Codeacademy?</b><br>
 https://www.facebook.com/groups/selftaughtprogrammers/permalink/414380698925670/?match=Y29kZWFjYWRlbXksY29kZWNhZGVteQ%3D%3D
